@@ -797,7 +797,7 @@ section.contact-me {
     }
     .isotope-item {
         width: 89%;
-        height: 89%;
+        /* height: 89%; */
         margin: 3%;
         /* margin-top: 10px;
         margin-left: 10px;
