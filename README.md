@@ -1,2 +1,4 @@
 # portfolio
- portfolio for Jonathan Guillen https://jonathanguillendev.github.io/portfolio/
+https://jonathanguillendev.github.io/portfolio/
+
+ portfolio for Jonathan Guillen
