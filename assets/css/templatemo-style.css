@@ -795,8 +795,13 @@ section.contact-me {
         left: 3%;
     }
     .isotope-item {
-        width: 94%;
-        margin: 3%;
+        width: 89%;
+        /* margin: 3%; */
+        padding-bottom: 30px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 3px;
     }
     .left-image-post img {
         margin-bottom: 30px;
