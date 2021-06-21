@@ -796,12 +796,12 @@ section.contact-me {
     }
     .isotope-item {
         width: 89%;
-        /* margin: 3%; */
-        padding-bottom: 200px;
-        margin-top: 10px;
+        height: 89%;
+        margin: 3%;
+        /* margin-top: 10px;
         margin-left: 10px;
         margin-right: 10px;
-        margin-bottom: 3px;
+        margin-bottom: 3px; */
     }
     .left-image-post img {
         margin-bottom: 30px;
