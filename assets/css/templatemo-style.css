@@ -504,6 +504,17 @@ section.my-work .section-heading {
 .isotope-box {
     position: relative;
     width: 100%;
+    zoom: 1; /* IE6&7 */
+}
+
+.isotope-box:before,
+.isotope-box:after {
+    content: "";
+    display: table;
+}
+
+.isotope-box:after {
+    clear: both;
 }
 
 .isotope-toolbar {
