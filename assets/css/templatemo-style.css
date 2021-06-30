@@ -502,12 +502,13 @@ section.my-work .section-heading {
 }
 
 .isotope-box {
-    position: relative;
+    position: absolute;
     width: 100%;
+    height: 80vh;
     zoom: 1; /* IE6&7 */
 }
 
-.isotope-box:before,
+/* .isotope-box:before,
 .isotope-box:after {
     content: "";
     display: table;
@@ -515,7 +516,7 @@ section.my-work .section-heading {
 
 .isotope-box:after {
     clear: both;
-}
+} */
 
 .isotope-toolbar {
     text-align: center;
