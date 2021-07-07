@@ -534,7 +534,7 @@ section.my-work .section-heading {
 }
 
 .isotope-item {
-    position: absolute;
+    position: relative;
     width: 43%;
     height: auto;
     margin: 15px;
