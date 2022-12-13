@@ -587,7 +587,7 @@ figure.snip1321 span {
     color: #7a7a7a;
 }
 figure.snip1321 i {
-  position: absolute;
+  position: static;
   /* !important; */
   font-size: 18px;
   background-color: #a43f49;
@@ -598,6 +598,7 @@ figure.snip1321 i {
   line-height: 40px;
   border-radius: 5px;
   color: #fff;
+  opacity: 80%
 }
 figure.snip1321:after {
   background-color: #ffffff;
