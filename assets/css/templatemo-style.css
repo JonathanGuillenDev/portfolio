@@ -506,7 +506,6 @@ section.my-work .section-heading {
     content: "";
     display: table;
 }
-
 .isotope-box:after {
     clear: both;
 } */
@@ -591,14 +590,14 @@ figure.snip1321 i {
   /* !important; */
   font-size: 18px;
   background-color: #a43f49;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   display: inline-block;
   text-align: center;
-  line-height: 40px;
+  line-height: 50px;
   border-radius: 5px;
   color: #fff;
-  opacity: 60%
+  opacity: 70%
 }
 figure.snip1321:after {
   background-color: #ffffff;
@@ -768,6 +767,7 @@ section.contact-me {
         transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
         transition: transform 233ms cubic-bezier(0, 0, 0.21, 1);
         transition: transform 233ms cubic-bezier(0, 0, 0.21, 1), -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
+        opacity: 98%;
     }
 
     .menu .image {
