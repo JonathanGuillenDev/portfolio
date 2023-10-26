@@ -499,6 +499,7 @@ section.my-work .section-heading {
     height: auto;
     zoom: 1; /* IE6&7 */
     display: flex;
+    justify-content: space-around;
 }
 
 /* .isotope-box:before,
